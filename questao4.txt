@@ -1,0 +1,23 @@
+a) 1, 3, 5, 7, ___
+Lógica: A sequência é composta de números ímpares consecutivos.
+Próximo elemento: 9
+
+b) 2, 4, 8, 16, 32, 64, ____
+Lógica: A sequência é composta de potências de 2: 2^1,2^2,2^3,2^4,2^5,2^6
+Próximo elemento: 128 (ou 2^7)
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Lógica: A sequência corresponde a quadrados perfeitos: 0^2,1^2,2^2,3^2,4^2,5^2,6^2
+Próximo elemento: 49 (ou 7^2)
+
+d) 4, 16, 36, 64, ____
+Lógica: A sequência corresponde a quadrados perfeitos de números pares: 2^2,4^2,6^2,8^2
+Próximo elemento: 100 (ou 10^2)
+
+e) 1, 1, 2, 3, 5, 8, ____
+Lógica: A sequência é a sequência de Fibonacci, onde cada número é a soma dos dois anteriores.
+Próximo elemento: 13
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Lógica: A sequência começa com um valor fora do padrão (2), mas depois alterna entre múltiplos de 2 e números consecutivos.
+Próximo elemento: 20

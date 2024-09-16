@@ -1,0 +1,14 @@
+Para resolver esse problema, você pode usar a seguinte estratégia:
+
+Primeira etapa: Ligue o primeiro interruptor (A) e deixe-o ligado por alguns minutos (digamos 5 minutos). Esse tempo é suficiente para que a lâmpada aqueça.
+
+Segunda etapa: Após os 5 minutos, desligue o interruptor (A) e ligue o segundo interruptor (B). O terceiro interruptor (C) permanece desligado o tempo todo.
+
+Terceira etapa: Vá até a sala onde estão as lâmpadas.
+
+Agora, ao chegar na sala das lâmpadas, você observará o seguinte:
+
+A lâmpada que está acesa está conectada ao interruptor (B), que você acabou de deixar ligado.
+A lâmpada que está apagada, mas está quente está conectada ao interruptor (A), pois estava ligada por alguns minutos e foi desligada antes de você ir para a sala.
+A lâmpada que está apagada e fria está conectada ao interruptor (C), que ficou desligado o tempo todo.
+Dessa forma, você consegue identificar qual interruptor controla cada lâmpada com apenas uma ida até a sala das lâmpadas.
